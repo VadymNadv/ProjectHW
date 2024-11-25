@@ -7,14 +7,14 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: #9d8bad;
+    background-color: #58079e;
     
 }
 
 
 form{
-    border: 1px solid #aa97bd;
-    background-color: #aa97bd;
+    border: 1px solid #9d41f8;
+    background-color: #6505c5;
     padding: 10px 20px;
     width: 100%;
     max-width: 600px;
